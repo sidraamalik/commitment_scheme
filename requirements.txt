@@ -1,0 +1,6 @@
+flask
+ujson
+pycrypto
+jsonschema
+configparser
+pymysql

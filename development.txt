@@ -1,0 +1,4 @@
+pytest
+wheel
+
+-r requirements.txt
